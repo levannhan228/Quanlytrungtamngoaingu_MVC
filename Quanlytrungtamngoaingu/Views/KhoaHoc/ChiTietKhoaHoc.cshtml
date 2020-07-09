@@ -1,0 +1,26 @@
+﻿<link href="~/Content/css/ChiTietKhoaHoc.css" rel="stylesheet" />
+@{
+    ViewBag.Title = "ChiTietKhoaHoc";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+@using Quanlytrungtamngoaingu.Models;
+@model KhoaHoc
+<div id="main">
+    <div id="HinhAnh" >
+        <img style="width:600px" src="@Url.Content("~/images/"+Model.AnhBia)"  />
+    </div>
+    <div id="ThongTin">
+        <div id="Tenkhoahoc">@Model.Tenkhoahoc</div>
+        <div id="Ngonngu">Ngôn ngữ: @ViewBag.TenNgonNgu</div>
+        <div id="GiangVien">Giảng viên: @ViewBag.GiangVien</div>
+        <div id="MoTa">Nội dung tóm tắt:<br>@Html.Raw(Model.Mota)</div>
+        <div id="Gia"><span style="color:green;font-weight:normal">Đơn giá:</span><br></div><div id="Tien">$@string.Format("{0:0,0}", Model.Giaban) </div>
+        <br>
+        @using (Html.BeginForm("ThemKhoaHoc", "DangKyHoc", new { @sMakh = Model.Makh, @strURL = Request.Url.ToString() }))
+        {
+            <button type="submit" id="btnGioHang" class="btn btn-primary">
+                <span id="titleshop">Đăng Ký</span><span class="glyphicon glyphicon-shopping-cart"></span>
+            </button>
+        }
+    </div>
+</div>

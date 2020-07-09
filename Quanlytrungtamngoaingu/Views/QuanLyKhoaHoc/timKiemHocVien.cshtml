@@ -1,0 +1,105 @@
+﻿@model List<Quanlytrungtamngoaingu.Models.HocVien>
+@{
+    ViewBag.Title = "timKiemHocVien";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+<style type="text/css">
+    th {
+        text-align: center !important;
+        background-color: #d9d5d5;
+    }
+
+    table, th, td {
+        border: 1px solid black !important;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    a {
+        color: black;
+    }
+
+    #btnSearch {
+        border-radius: 5px !important;
+    }
+</style>
+<h2>timKiemHocVien</h2>
+@if (Model.Count > 0)
+{
+    <h2>số sản phẩm tìm được khớp với từ khóa "@ViewBag.key" là: @Model.Count</h2>
+   
+    <table class="table">
+        <tr>
+            <th style="width:70px;text-align:center">
+                @Html.DisplayNameFor(model => model.First().Mahv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Hotenhv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Taikhoan)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Matkhau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Diachihv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Dienthoaihv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Gioitinh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Ngaysinh)
+            </th>
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td style="text-align:center">
+                    @Html.DisplayFor(modelItem => item.Mahv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hotenhv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Taikhoan)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Matkhau)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Diachihv)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Dienthoaihv)
+                </td>
+                <td style="text-align:center">
+                    @Html.DisplayFor(modelItem => item.Gioitinh)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Ngaysinh)
+                </td>
+
+            </tr>
+        }
+
+    </table>
+
+}
+else
+{
+    <h2>Không có học viên phù hợp với từ khóa "@ViewBag.key"</h2>
+}

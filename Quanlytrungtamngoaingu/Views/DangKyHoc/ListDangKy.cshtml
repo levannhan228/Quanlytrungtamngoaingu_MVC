@@ -1,0 +1,61 @@
+﻿@using Quanlytrungtamngoaingu.Models;
+@model List<DangKyKH>
+@{
+    ViewBag.Title = "ListDangKy";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+<link href="~/Content/css/ListDangKy.css" rel="stylesheet" />
+<h2>ListDangKy</h2>
+
+<div id="listDangKy">
+    <br />
+    <br />
+    <br />
+    <h2>Khóa học đã lựa chọn</h2>
+    <table>
+        <tr id="title">
+            <td>Mã Khóa Học</td>
+
+            <td>Tên Khóa Học</td>
+
+            <td>Ảnh Bìa</td>
+
+            <td>Giảng Viên</td>
+
+            <td>Học Phí</td>
+
+            <td>Chi Tiết Khóa Học</td>
+            <td>Xóa</td>
+        </tr>
+        @foreach (var item in Model)
+        {
+        <tr id="content">
+            <td >@item.sMakh</td>
+
+            <td>@item.sTenkh</td>
+
+            <td><a href="@Url.Action("ChiTietKhoaHoc","KhoaHoc",new {@Makh=item.sMakh })"><img src="@Url.Content("~/images/"+item.sAnhBia)" width="50" height="75" /></a></td>
+
+            <td>@item.sTengv</td>
+
+            <td>@string.Format("{0:0,0}", item.iGiaban.ToString()) $</td>
+
+            <td >@item.sChitiet</td>
+            <td>  @Html.ActionLink("Xóa", "XoaKhoaHoc", new { @sMakh = item.sMakh })</td>
+        </tr>
+        
+          
+       
+        }     
+        <tr>
+            <td colspan="7" style="color:brown">
+                @using (Html.BeginForm("DangKy", "DangKyHoc"))
+                {
+                    <input type="submit" name="name" value="Đăng ký học" />
+                }
+            </td>
+        </tr>
+    </table>
+    <br />
+    <br />
+</div>

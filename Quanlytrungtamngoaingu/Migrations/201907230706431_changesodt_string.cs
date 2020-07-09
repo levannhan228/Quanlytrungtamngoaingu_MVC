@@ -1,0 +1,18 @@
+namespace Quanlytrungtamngoaingu.Migrations
+{
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class changesodt_string : DbMigration
+    {
+        public override void Up()
+        {
+            AlterColumn("dbo.GiaoVien", "Dienthoaigv", c => c.String());
+        }
+        
+        public override void Down()
+        {
+            AlterColumn("dbo.GiaoVien", "Dienthoaigv", c => c.Int());
+        }
+    }
+}

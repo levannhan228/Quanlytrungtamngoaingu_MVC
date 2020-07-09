@@ -1,0 +1,51 @@
+﻿#main {
+    width: 500px;
+    height: 600px;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+#HinhAnh {
+    width: 200px;
+    height: 310px;
+    float: left;
+    margin-right: 50px;
+}
+
+#Tenkhoahoc {
+    font-size: 30px;
+    font-weight: bold;
+    color: #FF6600;
+}
+
+#Ngonngu {
+    font-size: 30px;
+    color: brown;
+}
+
+#ThongTin {
+    font-size: 18px;
+    margin-left: 0px;
+    position: absolute;
+    left: 70%;
+}
+
+#btnGioHang {
+    background: #FF6600;
+    border: none;
+    width: 160px;
+    height: 60px;
+}
+
+button #titleshop {
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+button span {
+    font-size: 20px;
+}
+
+#btnGioHang:hover {
+    background: #FF3300;
+}

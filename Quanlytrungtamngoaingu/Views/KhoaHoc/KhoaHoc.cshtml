@@ -1,0 +1,66 @@
+﻿@using Quanlytrungtamngoaingu.Models;
+@using PagedList.Mvc;
+@model PagedList.IPagedList<KhoaHoc>
+@{
+    ViewBag.Title = "KhoaHoc";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+<div class="site-section ftco-subscribe-1 site-blocks-cover pb-4" style="background-image: url('../../images/bg_1.jpg');">
+    <div class="container">
+        <div class="row align-items-end">
+            <div class="col-lg-7">
+                <h2 class="mb-0">Khóa Học</h2>
+                <p>Đào tạo uy tín, chất lượng</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="custom-breadcrumns border-bottom">
+    <div class="container">
+        <a href="/Home/Index">Trang Chủ</a>
+        <span class="mx-3 icon-keyboard_arrow_right"></span>
+        <span class="current">Khóa Học</span>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-lg-4 col-md-6 mb-4">
+                    <div class="course-1-item" style="height:580px">
+                        <figure class="thumnail">
+                            <a href="course-single.html"><img src="@Url.Content("~/images/"+item.AnhBia)" alt="Image" class="img-fluid" style="height:228px;width:100%"></a>
+                            <div class="price">$@item.Giaban</div>
+                            <div class="category"><h3>@item.Tenkhoahoc</h3></div>
+                        </figure>
+                        <div class="course-1-content pb-4">
+                            <h2>Khóa học kéo dài : @item.Thoigianhoc</h2>
+                            <div class="rating text-center mb-3">
+                                <span class="icon-star2 text-warning"></span>
+                                <span class="icon-star2 text-warning"></span>
+                                <span class="icon-star2 text-warning"></span>
+                                <span class="icon-star2 text-warning"></span>
+                                <span class="icon-star2 text-warning"></span>
+                            </div>
+                            <p class="desc mb-4">@Html.Raw(item.Mota)</p>
+                            <p><a href="@Url.Action("ChiTietKhoaHoc","KhoaHoc",new {@makh=item.Makh })" class="btn btn-primary rounded-0 px-4">Xem chi tiết</a></p>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+<div style="text-align:center; margin-top:30px;" >
+    @*Tạo link liên kết trang*@
+    Trang@(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    <ul class="pagination">
+    @Html.PagedListPager(Model, page => Url.Action("KhoaHoc", new { page = page }))
+        </ul>
+</div>
+

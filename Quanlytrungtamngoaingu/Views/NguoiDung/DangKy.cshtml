@@ -1,0 +1,132 @@
+﻿@model Quanlytrungtamngoaingu.Models.HocVien
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+}
+
+<style type="text/css">
+    .control-label{
+        width:50px;
+    } 
+</style>
+<div class="form-horizontal">
+    <div class="site-section ftco-subscribe-1 site-blocks-cover pb-4" style="background-image: url('../../images/bg_1.jpg')">
+        <div class="container">
+            <div class="row align-items-end justify-content-center text-center">
+                <div class="col-lg-7">
+                    <h2 class="mb-0">Register</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="custom-breadcrumns border-bottom">
+        <div class="container">
+            <a href="index.html">Home</a>
+            <span class="mx-3 icon-keyboard_arrow_right"></span>
+            <span class="current">Register</span>
+        </div>
+    </div>
+</div>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <br>
+    <div class="form-horizontal">
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="row">
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Hotenhv)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Hotenhv, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Hotenhv, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Taikhoan)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Taikhoan, new { htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.Taikhoan, "", new { @class = "text-danger" })
+                                <span style="color:red">@ViewBag.TrungMa</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Matkhau)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Matkhau, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Matkhau, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Email)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Diachihv)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Diachihv, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Diachihv, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Dienthoaihv)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Dienthoaihv, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Dienthoaihv, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Gioitinh)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Gioitinh, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Gioitinh, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-12 form-group">
+                            @Html.LabelFor(model => model.Ngaysinh)
+                            <div class="col-md-12">
+                                @Html.EditorFor(model => model.Ngaysinh, new { htmlAttributes = new { @class = "form-control" } })
+                                <span style="color:red">@Html.ValidationMessageFor(model => model.Ngaysinh, "", new { @class = "text-danger" })</span>
+                            </div>
+                        </div>
+                    </div>
+         
+    
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <input type="submit" value="Create" class="btn btn-default" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}

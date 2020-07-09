@@ -1,0 +1,6 @@
+﻿@using Quanlytrungtamngoaingu.Models
+@model List<NgonNgu>
+@foreach (var item in Model)
+{
+<a href="@Url.Action("KhoaHocTheoNgonNgu","NgonNgu",new {@Mann=item.Mann })">@item.Tennn</a>
+}

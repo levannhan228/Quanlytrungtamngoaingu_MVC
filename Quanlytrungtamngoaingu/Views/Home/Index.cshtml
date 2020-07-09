@@ -1,0 +1,385 @@
+﻿@using Quanlytrungtamngoaingu.Models;
+@model List<KhoaHoc>
+@{
+    Layout = "~/Views/Layout/NguoiDungLayout.cshtml";
+    ViewBag.Title = "Index";
+}
+<style type="text/css">
+    h1, h2, h3, h4, h5,
+    .h1, .h2, .h3, .h4, .h5 {
+        font-family: 'Oswald', sans-serif !important;
+    }
+</style>
+<!--start slider-->
+<div class="hero-slide owl-carousel site-blocks-cover">
+    <div class="intro-section" style="background-image: url('../../images/becca-tapert-GnY_mW1Q6Xc-unsplash.jpg');">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
+                    <h1>Khóa học chuyên nghiệp</h1>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="intro-section" style="background-image: url('../../images/woman-3435842_1920.jpg');">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
+                    <h1>Giảng viên có kinh nghiệm</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="intro-section" style="background-image: url('../../images/take-532097_1920.jpg');">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
+                    <h1>Đa ngôn ngữ</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--end slider-->
+<!--start tại sao nên lưa chọn-->
+<div class="site-section">
+    <div class="container">
+        <div class="row mb-5 justify-content-center text-center">
+            <div class="col-lg-4 mb-5">
+                <h2 class="section-title-underline mb-5">
+                    <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tại sao chọn chúng tôi?</font></font></span>
+                </h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+
+                <div class="feature-1 border">
+                    <div class="icon-wrapper bg-primary">
+                        <span class="flaticon-mortarboard text-white"></span>
+                    </div>
+                    <div class="feature-1-content">
+                        <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Chứng chỉ hợp lệ</font></font></h2>
+                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cà rốt Lorem ipsum, nhà phát triển Văn phòng nâng cao đại học phát triển bóng đá</font></font></p>
+                        <p><a href="#" class="btn btn-primary px-4 rounded-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tìm hiểu thêm</font></font></a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <div class="feature-1 border">
+                    <div class="icon-wrapper bg-primary">
+                        <span class="flaticon-school-material text-white"></span>
+                    </div>
+                    <div class="feature-1-content">
+                        <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Khóa học đa dạng</font></font></h2>
+                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cà rốt Lorem ipsum, nhà phát triển Văn phòng nâng cao đại học phát triển bóng đá</font></font></p>
+                        <p><a href="#" class="btn btn-primary px-4 rounded-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tìm hiểu thêm</font></font></a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4 mb-lg-0">
+                <div class="feature-1 border">
+                    <div class="icon-wrapper bg-primary">
+                        <span class="flaticon-library text-white"></span>
+                    </div>
+                    <div class="feature-1-content">
+                        <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Đào tạo thực tiễn</font></font></h2>
+                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cà rốt Lorem ipsum, nhà phát triển Văn phòng nâng cao đại học phát triển bóng đá</font></font></p>
+                        <p><a href="#" class="btn btn-primary px-4 rounded-0"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tìm hiểu thêm</font></font></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--end tại sao nên lưa chọn-->
+<!--start các khóa học phổ biên-->
+<div class="site-section">
+    <div class="container">
+        <div class="row mb-5 justify-content-center text-center">
+            <div class="col-lg-6 mb-5" >
+                <h2 class="section-title-underline mb-3">
+                    <span>Các khóa học phổ biến</span>
+                </h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia, id?</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-12">
+                <div class="owl-slide-3 owl-carousel">
+                    @foreach (var item in Model)
+                    {
+                        <div class="course-1-item" style="height:580px">
+                            <figure class="thumnail">
+                                <a href="@Url.Action("ChiTietKhoaHoc","KhoaHoc",new {@makh=item.Makh }) "><img src="@Url.Content("~/images/"+item.AnhBia)" alt="Image" class="img-fluid" style="height:228px"></a>
+                                <div class="price">$@item.Giaban</div>
+                                <div class="category"><h3>@item.Tenkhoahoc</h3></div>
+                            </figure>
+                            <div class="course-1-content pb-4">
+                                <h2>Khóa học kéo dài : @item.Thoigianhoc </h2>
+                                <div class="rating text-center mb-3">
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                </div>
+                                <p class="desc mb-4">@Html.Raw(item.Mota)</p>
+                                <p><a href="@Url.Action("ChiTietKhoaHoc","KhoaHoc",new {@makh=item.Makh })" class="btn btn-primary rounded-0 px-4">Xem chi tiết</a></p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--end các khóa học phổ biên-->
+<!--start nói về trung tâm-->
+<div class="section-bg style-1" style="background-image: url('../../images/becca-tapert-GnY_mW1Q6Xc-unsplash.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h2 class="section-title-underline style-2">
+                    <span>About Our English Center</span>
+                </h2>
+            </div>
+            <div class="col-lg-8">
+                <p class="lead">
+                    Chúng tôi là một trong những trung tâm đào tạo phát triển nhanh nhất của quốc gia và các khóa học của chúng tôi có nhu cầu cao. Sinh viên tốt nghiệp của chúng tôi bao gồm tám học giả Rhodes, năm trong số này được trao trong sáu năm qua.
+                    Chúng tôi là một tổ chức hợp tác và đầy tham vọng tìm cách trang bị cho sinh viên và sinh viên tốt nghiệp những kỹ năng họ sẽ cần trong một thế giới ngày càng bị phá vỡ và thách thức. Chúng tôi đang chuyển đổi trải nghiệm của sinh viên, chúng tôi cung cấp 50.000 sinh viên của chúng tôi và chúng tôi đặt ưu tiên cho việc công nhận quốc tế và quốc gia về các mức độ chuyên nghiệp khác nhau của chúng tôi.</p>
+<p><a href="#">Read more</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- <!--start nói về trung tâm-->-->
+<!--start phát biểu của học viên khi trải khóa học-->
+<div class="site-section">
+    <div class="container">
+        <div class="row mb-5">
+            <div class="col-lg-4">
+                <h2 class="section-title-underline">
+                    <span>Học viên nói gì về chúng tôi</span>
+                </h2>
+            </div>
+        </div>
+
+
+        <div class="owl-slide owl-carousel">
+
+            <div class="ftco-testimonial-1">
+                <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
+                    <img src="~/images/person_1.jpg" alt="Image" class="img-fluid mr-3">
+                    <div>
+                        <h3>Allison Holmes</h3>
+                        <span>Học Viên</span>
+                    </div>
+                </div>
+                <div>
+                    <p>&ldquo;Khi đến đây em được trải nghiệm rất nhiều điều. Học được kiến thức từ cơ bản đến nâng cao. Trải nghiệm và học đầy đủ các kỹ năng nghe, nói, đọc, viết. Môi trường thân thiện, thầy cô quan tâm sát sao đến học sinh... Thầy cô nhiệt huyết với nghề, tận tình. Đầy đủ các tiện nghi, cách kiểm tra đa dạng, mới mẻ…&rdquo;</p>
+                </div>
+            </div>
+
+            <div class="ftco-testimonial-1">
+                <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
+                    <img src="~/images/person_2.jpg" alt="Image" class="img-fluid mr-3">
+                    <div>
+                        <h3>Allison Holmes</h3>
+                        <span>Học Viên</span>
+                    </div>
+                </div>
+                <div>
+                    <p>Cách cô giảng bài dễ hiểu và dễ nghe. Có lúc cô giao nhiều bài tập, phải làm để cô không “ca”. Cô có những bài tập rất là hay, giúp em học được lý thuyết dễ dàng hơn… Cô Quý là một giáo viên tốt, nghiêm túc, đôi khi “lầy lội” (hài hước).”</p>
+                </div>
+            </div>
+
+            <div class="ftco-testimonial-1">
+                <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
+                    <img src="~/images/person_4.jpg" alt="Image" class="img-fluid mr-3">
+                    <div>
+                        <h3>Allison Holmes</h3>
+                        <span>Học Viên</span>
+                    </div>
+                </div>
+                <div>
+                    <p>&ldquo; “… So với những chỗ khác đã từng học qua, vì những kiến thức nền tảng lẫn nâng cao đều được rèn luyện rất chắc chắn và áp dụng được rất nhiều dạng bài tập. Hồi trước rất sợ từ mới nhưng bây giờ các dạng bài đọc khó nhai cũng không còn đáng sợ nữa rồi.”&rdquo;</p>
+                </div>
+            </div>
+
+            <div class="ftco-testimonial-1">
+                <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
+                    <img src="~/images/person_3.jpg" alt="Image" class="img-fluid mr-3">
+                    <div>
+                        <h3>Allison Holmes</h3>
+                        <span>Học Viên</span>
+                    </div>
+                </div>
+                <div>
+                    <p> “Học được rất nhiều thứ ở đây, mặc dù rất sợ nhưng cũng khiến cho em rất tiến bộ. Em đã nâng cao được kiến thức rất nhiều. Thầy cô ở đây rất hiền lành nhưng cũng rất nghiêm, kiến thức đầy đủ lại hữu ích. Môi trường học cũng rất tốt, thích thú, vui vẻ, em rất thích.”</p>
+                </div>
+            </div>
+
+            <div class="ftco-testimonial-1">
+                <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
+                    <img src="~/images/person_2.jpg" alt="Image" class="img-fluid mr-3">
+                    <div>
+                        <h3>Allison Holmes</h3>
+                        <span>Học Viên</span>
+                    </div>
+                </div>
+                <div>
+                    <p>&ldquo;Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, mollitia. Possimus mollitia nobis libero quidem aut tempore dolore iure maiores, perferendis, provident numquam illum nisi amet necessitatibus. A, provident aperiam!&rdquo;</p>
+                </div>
+            </div>
+
+            <div class="ftco-testimonial-1">
+                <div class="ftco-testimonial-vcard d-flex align-items-center mb-4">
+                    <img src="~/images/person_4.jpg" alt="Image" class="img-fluid mr-3">
+                    <div>
+                        <h3>Allison Holmes</h3>
+                        <span>Học Viên</span>
+                    </div>
+                </div>
+                <div>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Neque, mollitia. Possimus mollitia nobis libero quidem aut tempore dolore iure maiores, perferendis, provident numquam illum nisi amet necessitatibus. A, provident aperiam!</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+<!--end phát biểu của học viên khi trải khóa học-->
+<!--start tiêu chí-->
+<div class="section-bg style-1" style="background-image: url('../../images/hero_1.jpg');">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+                <span class="icon flaticon-mortarboard"></span>
+                <h3>Our Philosphy</h3>
+                <p>Chúng tôi tin tưởng vào việc hợp tác với bạn để tạo ra một nỗ lực tiếp thị tích hợp. Bạn sẽ nhận được những lợi ích của một nhóm lắng nghe. Một đội ngũ sáng tạo và giàu kinh nghiệm. Và một nhóm sử dụng các công cụ công nghệ web mới nhất để đảm bảo trang web của bạn hoạt động.</p>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+                <span class="icon flaticon-school-material"></span>
+                <h3>Academics Principle</h3>
+                <p>
+                    Hãy đối mặt với nó: mọi người đều cảm thấy sự siết chặt của một thị trường chặt chẽ, điều đó có nghĩa là tiếp thị trực tuyến phải hiệu quả hơn bao giờ hết. May mắn thay, không có nơi nào như web cho trách nhiệm. 
+                </p>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-5 mb-lg-0">
+                <span class="icon flaticon-library"></span>
+                <h3>Key of Success</h3>
+                <p>
+                    Trung tâm tích cực tham gia vào một số tổ chức từ thiện mà chúng tôi quyên góp thời gian và nguồn lực của mình. Chúng tôi cảm thấy rằng chúng tôi có trách nhiệm trả lại và làm phần của chúng tôi để làm cho thế giới tốt đẹp hơn.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<!--end tiêu chí-->
+<!--start một só tin tức-->
+<div class="news-updates">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-9">
+                <div class="section-heading">
+                    <h2 class="text-black">Tin tức và cập nhật</h2>
+                    <a href="#">Đọc tất cả tin tức</a>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="post-entry-big">
+                            <a href="news-single.html" class="img-link"><img src="~/images/blog_large_1.jpg" alt="Image" class="img-fluid"></a>
+                            <div class="post-content">
+                                <div class="post-meta">
+                                    <a href="#">NGÀY 6 THÁNG 6 NĂM 2019</a>
+                                    <span class="mx-1">/</span>
+                                    <a href="#">Nhập học</a>, <a href="#">Cập nhật</a>
+                                </div>
+                                <h3 class="post-heading"><a href="news-single.html">Một số khóa học mới sẽ được mở vào tháng tới</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="post-entry-big horizontal d-flex mb-4">
+                            <a href="news-single.html" class="img-link mr-4"><img src="~/images/blog_1.jpg" alt="Image" class="img-fluid"></a>
+                            <div class="post-content">
+                                <div class="post-meta">
+                                    <a href="#">NGÀY 6 THÁNG 6 NĂM 2019</a>
+                                    <span class="mx-1">/</span>
+                                    <a href="#">Nhập học</a>, <a href="#">Cập nhật</a>
+                                </div>
+                                <h3 class="post-heading"><a href="news-single.html">Khu cắm trại và học tập</a></h3>
+                            </div>
+                        </div>
+
+                        <div class="post-entry-big horizontal d-flex mb-4">
+                            <a href="news-single.html" class="img-link mr-4"><img src="~/images/blog_2.jpg" alt="Image" class="img-fluid"></a>
+                            <div class="post-content">
+                                <div class="post-meta">
+                                    <a href="#">NGÀY 6 THÁNG 6 NĂM 2019</a>
+                                    <span class="mx-1">/</span>
+                                    <a href="#">Nhập học</a>, <a href="#">Cập nhật</a>
+                                </div>
+                                <h3 class="post-heading"><a href="news-single.html">Khu cắm trại và học tập</a></h3>
+                            </div>
+                        </div>
+
+                        <div class="post-entry-big horizontal d-flex mb-4">
+                            <a href="news-single.html" class="img-link mr-4"><img src="~/images/blog_1.jpg" alt="Image" class="img-fluid"></a>
+                            <div class="post-content">
+                                <div class="post-meta">
+                                    <a href="#">NGÀY 6 THÁNG 6 NĂM 2019</a>
+                                    <span class="mx-1">/</span>
+                                    <a href="#">Nhập học</a>, <a href="#">Cập nhật</a>
+                                </div>
+                                <h3 class="post-heading"><a href="news-single.html">Khu cắm trại và học tập</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <div class="section-heading">
+                    <h2 class="text-black">Videos Trung Tâm</h2>
+                    <a href="#">Xem tất cả video</a>
+                </div>
+                <a href="https://vimeo.com/45830194" class="video-1 mb-4" data-fancybox="" data-ratio="2">
+                    <span class="play">
+                        <span class="icon-play"></span>
+                    </span>
+                    <img src="~/images/course_5.jpg" alt="Image" class="img-fluid">
+                </a>
+                <a href="https://vimeo.com/45830194" class="video-1 mb-4" data-fancybox="" data-ratio="2">
+                    <span class="play">
+                        <span class="icon-play"></span>
+                    </span>
+                    <img src="~/images/course_5.jpg" alt="Image" class="img-fluid">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!--end một só tin tức-->
+<!--start để lại email -->
+<div class="site-section ftco-subscribe-1" style="background-image: url('../../images/bg_1.jpg');">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <h2>Theo dõi chúng tôi!</h2>
+                <p>Xa xa, đằng sau những ngọn núi từ, xa các quốc gia Vokalia và Consonantia,</p>
+            </div>
+            <div class="col-lg-5">
+                <form action="" class="d-flex">
+                    <input type="text" class="rounded form-control mr-2 py-3" placeholder="Enter your email">
+                    <button class="btn btn-primary rounded py-3 px-4" type="submit">Send</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--end để lại email -->

@@ -1,0 +1,84 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.PagedList<Quanlytrungtamngoaingu.Models.NgonNgu>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+<style type="text/css">
+    th {
+        text-align: center !important;
+        background-color: #d9d5d5;
+    }
+
+    table, th, td {
+        border: 1px solid black !important;
+        text-align: center !important;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    a {
+        color: black;
+    }
+</style>
+<h2>Thông ting ngôn ngữ</h2>
+<br />
+<p>
+    @Html.ActionLink("Thêm ngôn ngữ", "themmoiNgonngu", "QuanLyKhoaHoc")
+</p>
+<table class="table" style="text-align:center">
+    <tr>
+        <th style="text-align:center;width:100px">
+            @Html.DisplayNameFor(model => model.First().Mann)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Tennn)
+        </th>
+        <th>
+            Điều chỉnh
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td style="text-align:center">
+                @Html.DisplayFor(modelItem => item.Mann)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tennn)
+            </td>
+            <td>
+                <button class="btn btn-success" style="border-radius:5px!important;">
+                    @Html.ActionLink("Chỉnh sửa", "editNgonNgu", new { @Mann = item.Mann }, null)
+                </button>
+                <form method="post" action="/QuanLyKhoaHoc/deleteNgonNgu">
+                    <input type="hidden" value="@item.Mann" name="Mann" />
+                    <button class="btn btn-danger" style="width:91px;margin-top:5px;border-radius:5px!important;">Xóa</button>
+                </form>
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    <i class="icon-download"></i> <a href="@Url.Action("DownloadExcelNgonNgu","QuanLyKhoaHoc")">Download Excel</a>
+</div>
+<br />
+<i class="icon-upload"></i> Upload Excel    <span style="color:red">@TempData["TrungMa"]</span>
+<form action="/QuanLyKhoaHoc/ImportExcelNgonNgu" enctype = "multipart/form-data" method="post">
+    <input type="file" name="file" />
+    <input type="submit" value="OK" />
+</form>
+<div style="text-align:center; margin-top:30px;">
+    @*Tạo link liên kết trang*@
+    Trang@(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    <ul class="pagination">
+        @Html.PagedListPager(Model, page => Url.Action("viewNgonNgu", new { page = page }));
+    </ul>
+</div>
+

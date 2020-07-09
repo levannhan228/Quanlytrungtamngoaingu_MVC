@@ -1,0 +1,109 @@
+﻿@model List<Quanlytrungtamngoaingu.Models.KhoaHoc>
+@{
+    ViewBag.Title = "timKiemKhoaHoc";
+    ViewBag.Heading = "Danh sách các sản phẩm tìm được";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+<style type="text/css">
+    th {
+        text-align: center !important
+    }
+
+    table, th, td {
+        border: 1px solid black !important;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    a {
+        color: black;
+    }
+
+    #btnSearch {
+        border-radius: 5px !important;
+    }
+</style>
+
+@if (Model.Count > 0)
+{
+    <h2>số sản phẩm tìm được khớp với từ khóa "@ViewBag.key" là: @Model.Count</h2>
+  
+    <table class="table">
+        <tr style="background-color:#d9d5d5">
+            <th>
+                @Html.DisplayNameFor(model => model.First().Makh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Tenkhoahoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Giaban)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Mota)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().AnhBia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Thoigianhoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Siso)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Mann)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.First().Magv)
+            </th>
+  
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td width="70px" style=" text-align:center !important">
+                    @Html.DisplayFor(modelItem => item.Makh)
+                </td>
+                <td width="150px">
+                    @Html.DisplayFor(modelItem => item.Tenkhoahoc)
+                </td>
+                <td style=" text-align:center !important">
+                    @Html.DisplayFor(modelItem => item.Giaban)
+                </td>
+                <td width="200px">
+                    @Html.Raw(item.Mota)
+                </td>
+                <td>
+                    <img src="@Url.Content("~/images/"+item.AnhBia)" alt="Image" class="img-fluid" style="width:100px">
+                </td>
+                <td width="70px" style=" text-align:center !important">
+                    @Html.DisplayFor(modelItem => item.Thoigianhoc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Siso)
+                </td>
+                <td width="70px" style=" text-align:center !important">
+                    @Html.DisplayFor(modelItem => item.Mann)
+                </td>
+                <td style=" text-align:center !important">
+                    @Html.DisplayFor(modelItem => item.Magv)
+                </td>
+            
+            </tr>
+        }
+
+    </table>
+    
+}
+else
+{
+    <h2>Không có khóa học phù hợp với từ khóa "@ViewBag.key"</h2>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "viewKhoaHoc")
+</div>

@@ -1,0 +1,129 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model PagedList.PagedList<Quanlytrungtamngoaingu.Models.GiaoVien>
+@{
+    ViewBag.Title = "editGiangVien";
+    Layout = "~/Views/Layout/AdminLayout.cshtml";
+}
+<style type="text/css">
+    th {
+        text-align: center !important;
+        background-color: #d9d5d5;
+    }
+
+    table, th, td {
+        border: 1px solid black !important;
+        text-align: center !important;
+    }
+
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+
+    a {
+        color: black;
+    }
+
+    #btnSearch {
+        border-radius: 5px !important;
+    }
+</style>
+<h2 style="color:brown">Thông tin giảng viên</h2>
+<div class="row" style="margin-left:10px">
+    <input id="txtInput" />
+    <button id="btnSearch" class="btn btn-primary">Tìm kiếm giảng viên</button>
+</div>
+<br />
+<p>
+    @Html.ActionLink("Thêm giảng viên", "themmoiGiangVien", "QuanLyKhoaHoc")
+</p>
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Magv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Tengv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().images)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Diachigv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Dienthoaigv)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.First().Ngaysinhgv)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.First().Gioitinh)
+        </th>
+        <th>
+            Điều chỉnh
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Magv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tengv)
+            </td>
+            <td>
+                <img src="@Url.Content("~/images/"+item.images)" alt="Image" class="img-fluid" style="width:100px;height:120px">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Diachigv)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Dienthoaigv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ngaysinhgv)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gioitinh)
+            </td>
+            <td>
+                <button class="btn btn-success" style="border-radius:5px!important;">
+                    @Html.ActionLink("Chỉnh sửa", "editGiangVien", new { @Magv = item.Magv }, null)
+                </button>
+                <form method="post" action="/QuanLyKhoaHoc/deleteGiangVien">
+                    <input type="hidden" value="@item.Magv" name="Magv" />
+                    <button class="btn btn-danger" style="width:91px;margin-top:5px;border-radius:5px!important;">Xóa</button>
+                </form>
+            </td>
+        </tr>
+    }
+
+</table>
+<div>
+    <i class="icon-download"></i> <a href="@Url.Action("DownloadExcelGiangVien","QuanLyKhoaHoc")">Download Excel</a>
+</div>
+<br />
+<i class="icon-upload"></i> Upload Excel <span style="color:red">@TempData["TrungMa"]</span>
+<form action="/QuanLyKhoaHoc/ImportExcelGiangVien" enctype="multipart/form-data" method="post">
+    <input type="file" name="file" />
+    <input type="submit" value="OK" />
+</form>
+<script>
+    $('#btnSearch').on('click', function () {
+        var giatrinhap = $('#txtInput').val();
+        window.location.href = "/QuanLyKhoaHoc/timKiemGiangVien?Tengv=" + giatrinhap;
+    });
+</script>
+<div style="text-align:center; margin-top:30px;">
+    @*Tạo link liên kết trang*@
+    Trang@(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber)/@Model.PageCount
+    <ul class="pagination">
+        @Html.PagedListPager(Model, page => Url.Action("viewGiangVien", new { page = page }))
+    </ul>
+</div>

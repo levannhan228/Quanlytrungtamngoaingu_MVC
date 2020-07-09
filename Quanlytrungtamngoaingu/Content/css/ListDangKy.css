@@ -1,0 +1,27 @@
+﻿#listDangKy table, tr, td {
+    border: 1px solid black;
+    text-align: center;
+    width: 1000px;
+}
+
+#listDangKy td {
+    padding: 15px;
+}
+
+#listDangKy {
+    margin-left: 15%;
+}
+
+h2 {
+    padding-bottom: 30px;
+}
+
+#title td {
+    background-color: brown;
+    font-weight: bold;
+    color: white;
+}
+
+#content td {
+    background-color: aliceblue;
+}

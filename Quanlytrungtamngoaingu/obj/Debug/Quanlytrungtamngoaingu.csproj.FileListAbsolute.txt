@@ -1,0 +1,422 @@
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Quanlytrungtamngoaingu.dll.config
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Quanlytrungtamngoaingu.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Quanlytrungtamngoaingu.pdb
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csc.exe
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csc.exe.config
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csc.rsp
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csi.exe
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csi.exe.config
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csi.rsp
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.AppContext.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Console.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.Compression.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Claims.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.ValueTuple.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\vbc.exe
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\vbc.exe.config
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\vbc.rsp
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\VBCSCompiler.exe
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Antlr3.Runtime.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.SqlServer.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Newtonsoft.Json.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.Mvc.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Helpers.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Mvc.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Optimization.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Razor.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Razor.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\WebGrease.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.SqlServer.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.Mvc.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Helpers.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Mvc.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Optimization.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Razor.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Razor.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Newtonsoft.Json.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Antlr3.Runtime.pdb
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csproj.CopyComplete
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.pdb
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.initial.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csproj.GenerateResource.cache
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.themtruongimage.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.ChangedNoNull.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.changesodt_string.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.changevaludation.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.addvaludation.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.changenullanhbi.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change1.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change2.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.chang3.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change4.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change6.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change8.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixidentity.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixmakh.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixmakh2.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixmakh21.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fix4.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test1.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.Win32.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\netstandard.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.AppContext.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.Concurrent.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.NonGeneric.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.Specialized.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Console.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Data.Common.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Contracts.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Debug.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Process.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.StackTrace.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Tools.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.TraceSource.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Tracing.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Drawing.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Dynamic.Runtime.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Globalization.Calendars.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Globalization.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Globalization.Extensions.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.Compression.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.Compression.ZipFile.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.IsolatedStorage.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.Pipes.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.Expressions.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.Parallel.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.Queryable.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Http.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.NameResolution.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.NetworkInformation.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Ping.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Requests.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Security.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Sockets.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.WebHeaderCollection.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.WebSockets.Client.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.WebSockets.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ObjectModel.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Reflection.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Reflection.Extensions.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Reflection.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Resources.Reader.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Resources.ResourceManager.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Resources.Writer.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Extensions.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Handles.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.InteropServices.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Numerics.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Json.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Claims.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Csp.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Principal.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.SecureString.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Text.Encoding.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Text.Encoding.Extensions.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Text.RegularExpressions.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Overlapped.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Tasks.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Thread.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.ThreadPool.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Timer.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ValueTuple.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.ReaderWriter.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XDocument.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XmlDocument.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XmlSerializer.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XPath.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XPath.XDocument.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\DnsClient.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EPPlus.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Buffers.dll
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\DnsClient.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EPPlus.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Buffers.xml
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test18.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test20.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test21.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test101.resources
+C:\Users\NHAN\Desktop\Quản lý trung tâm Ngoại ngữ\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test228.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Quanlytrungtamngoaingu.dll.config
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Quanlytrungtamngoaingu.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Quanlytrungtamngoaingu.pdb
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csc.exe
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csc.exe.config
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csc.rsp
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csi.exe
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csi.exe.config
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\csi.rsp
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.AppContext.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Console.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.Compression.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Claims.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.ValueTuple.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\vbc.exe
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\vbc.exe.config
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\vbc.rsp
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\VBCSCompiler.exe
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.Win32.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\netstandard.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.AppContext.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.Concurrent.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.NonGeneric.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Collections.Specialized.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Console.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Data.Common.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Contracts.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Debug.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Process.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.StackTrace.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Tools.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.TraceSource.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Diagnostics.Tracing.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Drawing.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Dynamic.Runtime.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Globalization.Calendars.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Globalization.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Globalization.Extensions.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.Compression.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.Compression.ZipFile.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.IsolatedStorage.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.Pipes.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.Expressions.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.Parallel.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Linq.Queryable.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Http.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.NameResolution.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.NetworkInformation.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Ping.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Requests.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Security.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.Sockets.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.WebHeaderCollection.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.WebSockets.Client.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Net.WebSockets.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ObjectModel.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Reflection.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Reflection.Extensions.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Reflection.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Resources.Reader.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Resources.ResourceManager.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Resources.Writer.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Extensions.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Handles.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.InteropServices.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Numerics.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Json.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Claims.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Csp.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.Principal.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Security.SecureString.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Text.Encoding.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Text.Encoding.Extensions.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Text.RegularExpressions.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Overlapped.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Tasks.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Thread.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.ThreadPool.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Threading.Timer.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.ValueTuple.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.ReaderWriter.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XDocument.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XmlDocument.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XmlSerializer.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XPath.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Xml.XPath.XDocument.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Antlr3.Runtime.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\DnsClient.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.SqlServer.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EPPlus.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Newtonsoft.Json.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.Mvc.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Buffers.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Helpers.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Mvc.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Optimization.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Razor.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Razor.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\WebGrease.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\DnsClient.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EntityFramework.SqlServer.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\EPPlus.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\PagedList.Mvc.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Buffers.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Helpers.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Mvc.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Optimization.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.Razor.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\System.Web.WebPages.Razor.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Newtonsoft.Json.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Antlr3.Runtime.pdb
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csprojAssemblyReference.cache
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.initial.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.themtruongimage.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.ChangedNoNull.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.changesodt_string.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.changevaludation.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.addvaludation.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.changenullanhbi.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change1.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change2.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.chang3.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change4.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change6.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.change8.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixidentity.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixmakh.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixmakh2.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fixmakh21.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.fix4.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test1.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test18.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test20.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test21.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test101.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.Migrations.test228.resources
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csproj.GenerateResource.cache
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csproj.CoreCompileInputs.cache
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.csproj.CopyComplete
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.dll
+C:\Users\NHAN\Desktop\Quanlytrungtamngoaingu\Quanlytrungtamngoaingu\obj\Debug\Quanlytrungtamngoaingu.pdb
